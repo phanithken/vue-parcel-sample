@@ -1,0 +1,15 @@
+button[data-v-f93cba] {
+  height: 50px;
+  width: 50px;
+  color: white;
+  border: none;
+  background: black;
+  border-radius: 5px;
+}.container {
+  width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+.container h1 {
+  color: blue;
+}
